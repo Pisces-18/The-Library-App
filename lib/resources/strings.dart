@@ -1,0 +1,15 @@
+const SEARCH_PLAY_BOOKS_TEXT="Search Play Books";
+const BUTTON_TEXT1="Free sample";
+const BUTTON_TEXT2="Add to wishlist";
+const INFO_TEXT="Books that you buy on the Google Play website can be read in this app";
+const ABOUT_THIS_EBOOK_TET="About This Ebook";
+const RATING_AND_REVIEW_TEXT="Ratings and reviews";
+const PUBLISHED_TEXT="Published";
+const SEARCH_PAGE_TEXT="Results from Google Play";
+const EBOOK_TEXT="Ebooks";
+const AUDIO_BOOK_TEXT="AudioBooks";
+const LIBRARY_TAB_TEXT1="Your books";
+const LIBRARY_TAB_TEXT2="Your shelves";
+const SORT_LIST_TEXT="Sort by: Recent";
+const SORT_BY_TEXT="Sort by";
+const VIEW_AS_TEXT="View as";
